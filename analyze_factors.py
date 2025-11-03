@@ -41,3 +41,7 @@ print('\n\n2015-Present Statistics:')
 print(f"Number of observations: {len(df_2015)}")
 print(f"Number of years: {len(df_2015)/12:.1f}")
 
+
+
+
+
